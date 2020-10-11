@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\bin\Debug\netcoreapp3.1\MassEnergy_Equivalence.exe
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\bin\Debug\netcoreapp3.1\MassEnergy_Equivalence.deps.json
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\bin\Debug\netcoreapp3.1\MassEnergy_Equivalence.runtimeconfig.json
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\bin\Debug\netcoreapp3.1\MassEnergy_Equivalence.runtimeconfig.dev.json
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\bin\Debug\netcoreapp3.1\MassEnergy_Equivalence.dll
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\bin\Debug\netcoreapp3.1\MassEnergy_Equivalence.pdb
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\obj\Debug\netcoreapp3.1\MassEnergy_Equivalence.csprojAssemblyReference.cache
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\obj\Debug\netcoreapp3.1\MassEnergy_Equivalence.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\obj\Debug\netcoreapp3.1\MassEnergy_Equivalence.AssemblyInfo.cs
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\obj\Debug\netcoreapp3.1\MassEnergy_Equivalence.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\obj\Debug\netcoreapp3.1\MassEnergy_Equivalence.dll
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\obj\Debug\netcoreapp3.1\MassEnergy_Equivalence.pdb
+F:\dotNet\LabWork_1\MassEnergy_Equivalence\obj\Debug\netcoreapp3.1\MassEnergy_Equivalence.genruntimeconfig.cache

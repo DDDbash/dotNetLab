@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Simple_Interest/1.0.0": {
+        "runtime": {
+          "Simple_Interest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple_Interest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

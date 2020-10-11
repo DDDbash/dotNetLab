@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\bin\Debug\netcoreapp3.1\BillSplitValuePerPerson.exe
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\bin\Debug\netcoreapp3.1\BillSplitValuePerPerson.deps.json
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\bin\Debug\netcoreapp3.1\BillSplitValuePerPerson.runtimeconfig.json
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\bin\Debug\netcoreapp3.1\BillSplitValuePerPerson.runtimeconfig.dev.json
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\bin\Debug\netcoreapp3.1\BillSplitValuePerPerson.dll
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\bin\Debug\netcoreapp3.1\BillSplitValuePerPerson.pdb
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\obj\Debug\netcoreapp3.1\BillSplitValuePerPerson.csprojAssemblyReference.cache
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\obj\Debug\netcoreapp3.1\BillSplitValuePerPerson.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\obj\Debug\netcoreapp3.1\BillSplitValuePerPerson.AssemblyInfo.cs
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\obj\Debug\netcoreapp3.1\BillSplitValuePerPerson.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\obj\Debug\netcoreapp3.1\BillSplitValuePerPerson.dll
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\obj\Debug\netcoreapp3.1\BillSplitValuePerPerson.pdb
+F:\dotNet\LabWork_1\BillSplitValuePerPerson\obj\Debug\netcoreapp3.1\BillSplitValuePerPerson.genruntimeconfig.cache

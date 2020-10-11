@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_1\Compound_Interest\bin\Debug\netcoreapp3.1\Compound_Interest.exe
+F:\dotNet\LabWork_1\Compound_Interest\bin\Debug\netcoreapp3.1\Compound_Interest.deps.json
+F:\dotNet\LabWork_1\Compound_Interest\bin\Debug\netcoreapp3.1\Compound_Interest.runtimeconfig.json
+F:\dotNet\LabWork_1\Compound_Interest\bin\Debug\netcoreapp3.1\Compound_Interest.runtimeconfig.dev.json
+F:\dotNet\LabWork_1\Compound_Interest\bin\Debug\netcoreapp3.1\Compound_Interest.dll
+F:\dotNet\LabWork_1\Compound_Interest\bin\Debug\netcoreapp3.1\Compound_Interest.pdb
+F:\dotNet\LabWork_1\Compound_Interest\obj\Debug\netcoreapp3.1\Compound_Interest.csprojAssemblyReference.cache
+F:\dotNet\LabWork_1\Compound_Interest\obj\Debug\netcoreapp3.1\Compound_Interest.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_1\Compound_Interest\obj\Debug\netcoreapp3.1\Compound_Interest.AssemblyInfo.cs
+F:\dotNet\LabWork_1\Compound_Interest\obj\Debug\netcoreapp3.1\Compound_Interest.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_1\Compound_Interest\obj\Debug\netcoreapp3.1\Compound_Interest.dll
+F:\dotNet\LabWork_1\Compound_Interest\obj\Debug\netcoreapp3.1\Compound_Interest.pdb
+F:\dotNet\LabWork_1\Compound_Interest\obj\Debug\netcoreapp3.1\Compound_Interest.genruntimeconfig.cache

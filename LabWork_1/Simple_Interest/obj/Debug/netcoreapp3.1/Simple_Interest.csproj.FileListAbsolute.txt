@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_1\Simple_Interest\bin\Debug\netcoreapp3.1\Simple_Interest.exe
+F:\dotNet\LabWork_1\Simple_Interest\bin\Debug\netcoreapp3.1\Simple_Interest.deps.json
+F:\dotNet\LabWork_1\Simple_Interest\bin\Debug\netcoreapp3.1\Simple_Interest.runtimeconfig.json
+F:\dotNet\LabWork_1\Simple_Interest\bin\Debug\netcoreapp3.1\Simple_Interest.runtimeconfig.dev.json
+F:\dotNet\LabWork_1\Simple_Interest\bin\Debug\netcoreapp3.1\Simple_Interest.dll
+F:\dotNet\LabWork_1\Simple_Interest\bin\Debug\netcoreapp3.1\Simple_Interest.pdb
+F:\dotNet\LabWork_1\Simple_Interest\obj\Debug\netcoreapp3.1\Simple_Interest.csprojAssemblyReference.cache
+F:\dotNet\LabWork_1\Simple_Interest\obj\Debug\netcoreapp3.1\Simple_Interest.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_1\Simple_Interest\obj\Debug\netcoreapp3.1\Simple_Interest.AssemblyInfo.cs
+F:\dotNet\LabWork_1\Simple_Interest\obj\Debug\netcoreapp3.1\Simple_Interest.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_1\Simple_Interest\obj\Debug\netcoreapp3.1\Simple_Interest.dll
+F:\dotNet\LabWork_1\Simple_Interest\obj\Debug\netcoreapp3.1\Simple_Interest.pdb
+F:\dotNet\LabWork_1\Simple_Interest\obj\Debug\netcoreapp3.1\Simple_Interest.genruntimeconfig.cache

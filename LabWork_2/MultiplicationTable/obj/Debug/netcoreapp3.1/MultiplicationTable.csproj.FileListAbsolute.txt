@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_2\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+F:\dotNet\LabWork_2\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+F:\dotNet\LabWork_2\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+F:\dotNet\LabWork_2\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+F:\dotNet\LabWork_2\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+F:\dotNet\LabWork_2\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+F:\dotNet\LabWork_2\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csprojAssemblyReference.cache
+F:\dotNet\LabWork_2\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_2\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+F:\dotNet\LabWork_2\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_2\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+F:\dotNet\LabWork_2\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+F:\dotNet\LabWork_2\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

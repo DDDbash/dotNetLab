@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_1\Volume_Sphere\bin\Debug\netcoreapp3.1\Volume_Sphere.exe
+F:\dotNet\LabWork_1\Volume_Sphere\bin\Debug\netcoreapp3.1\Volume_Sphere.deps.json
+F:\dotNet\LabWork_1\Volume_Sphere\bin\Debug\netcoreapp3.1\Volume_Sphere.runtimeconfig.json
+F:\dotNet\LabWork_1\Volume_Sphere\bin\Debug\netcoreapp3.1\Volume_Sphere.runtimeconfig.dev.json
+F:\dotNet\LabWork_1\Volume_Sphere\bin\Debug\netcoreapp3.1\Volume_Sphere.dll
+F:\dotNet\LabWork_1\Volume_Sphere\bin\Debug\netcoreapp3.1\Volume_Sphere.pdb
+F:\dotNet\LabWork_1\Volume_Sphere\obj\Debug\netcoreapp3.1\Volume_Sphere.csprojAssemblyReference.cache
+F:\dotNet\LabWork_1\Volume_Sphere\obj\Debug\netcoreapp3.1\Volume_Sphere.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_1\Volume_Sphere\obj\Debug\netcoreapp3.1\Volume_Sphere.AssemblyInfo.cs
+F:\dotNet\LabWork_1\Volume_Sphere\obj\Debug\netcoreapp3.1\Volume_Sphere.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_1\Volume_Sphere\obj\Debug\netcoreapp3.1\Volume_Sphere.dll
+F:\dotNet\LabWork_1\Volume_Sphere\obj\Debug\netcoreapp3.1\Volume_Sphere.pdb
+F:\dotNet\LabWork_1\Volume_Sphere\obj\Debug\netcoreapp3.1\Volume_Sphere.genruntimeconfig.cache

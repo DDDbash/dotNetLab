@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_2\SumDifferenceMatrices\bin\Debug\netcoreapp3.1\SumDifferenceMatrices.exe
+F:\dotNet\LabWork_2\SumDifferenceMatrices\bin\Debug\netcoreapp3.1\SumDifferenceMatrices.deps.json
+F:\dotNet\LabWork_2\SumDifferenceMatrices\bin\Debug\netcoreapp3.1\SumDifferenceMatrices.runtimeconfig.json
+F:\dotNet\LabWork_2\SumDifferenceMatrices\bin\Debug\netcoreapp3.1\SumDifferenceMatrices.runtimeconfig.dev.json
+F:\dotNet\LabWork_2\SumDifferenceMatrices\bin\Debug\netcoreapp3.1\SumDifferenceMatrices.dll
+F:\dotNet\LabWork_2\SumDifferenceMatrices\bin\Debug\netcoreapp3.1\SumDifferenceMatrices.pdb
+F:\dotNet\LabWork_2\SumDifferenceMatrices\obj\Debug\netcoreapp3.1\SumDifferenceMatrices.csprojAssemblyReference.cache
+F:\dotNet\LabWork_2\SumDifferenceMatrices\obj\Debug\netcoreapp3.1\SumDifferenceMatrices.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_2\SumDifferenceMatrices\obj\Debug\netcoreapp3.1\SumDifferenceMatrices.AssemblyInfo.cs
+F:\dotNet\LabWork_2\SumDifferenceMatrices\obj\Debug\netcoreapp3.1\SumDifferenceMatrices.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_2\SumDifferenceMatrices\obj\Debug\netcoreapp3.1\SumDifferenceMatrices.dll
+F:\dotNet\LabWork_2\SumDifferenceMatrices\obj\Debug\netcoreapp3.1\SumDifferenceMatrices.pdb
+F:\dotNet\LabWork_2\SumDifferenceMatrices\obj\Debug\netcoreapp3.1\SumDifferenceMatrices.genruntimeconfig.cache

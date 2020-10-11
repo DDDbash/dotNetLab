@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_1\Area_Circle\bin\Debug\netcoreapp3.1\Area_Circle.exe
+F:\dotNet\LabWork_1\Area_Circle\bin\Debug\netcoreapp3.1\Area_Circle.deps.json
+F:\dotNet\LabWork_1\Area_Circle\bin\Debug\netcoreapp3.1\Area_Circle.runtimeconfig.json
+F:\dotNet\LabWork_1\Area_Circle\bin\Debug\netcoreapp3.1\Area_Circle.runtimeconfig.dev.json
+F:\dotNet\LabWork_1\Area_Circle\bin\Debug\netcoreapp3.1\Area_Circle.dll
+F:\dotNet\LabWork_1\Area_Circle\bin\Debug\netcoreapp3.1\Area_Circle.pdb
+F:\dotNet\LabWork_1\Area_Circle\obj\Debug\netcoreapp3.1\Area_Circle.csprojAssemblyReference.cache
+F:\dotNet\LabWork_1\Area_Circle\obj\Debug\netcoreapp3.1\Area_Circle.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_1\Area_Circle\obj\Debug\netcoreapp3.1\Area_Circle.AssemblyInfo.cs
+F:\dotNet\LabWork_1\Area_Circle\obj\Debug\netcoreapp3.1\Area_Circle.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_1\Area_Circle\obj\Debug\netcoreapp3.1\Area_Circle.dll
+F:\dotNet\LabWork_1\Area_Circle\obj\Debug\netcoreapp3.1\Area_Circle.pdb
+F:\dotNet\LabWork_1\Area_Circle\obj\Debug\netcoreapp3.1\Area_Circle.genruntimeconfig.cache

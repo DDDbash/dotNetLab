@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_1\BMI\bin\Debug\netcoreapp3.1\BMI.exe
+F:\dotNet\LabWork_1\BMI\bin\Debug\netcoreapp3.1\BMI.deps.json
+F:\dotNet\LabWork_1\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
+F:\dotNet\LabWork_1\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
+F:\dotNet\LabWork_1\BMI\bin\Debug\netcoreapp3.1\BMI.dll
+F:\dotNet\LabWork_1\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
+F:\dotNet\LabWork_1\BMI\obj\Debug\netcoreapp3.1\BMI.csprojAssemblyReference.cache
+F:\dotNet\LabWork_1\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_1\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfo.cs
+F:\dotNet\LabWork_1\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_1\BMI\obj\Debug\netcoreapp3.1\BMI.dll
+F:\dotNet\LabWork_1\BMI\obj\Debug\netcoreapp3.1\BMI.pdb
+F:\dotNet\LabWork_1\BMI\obj\Debug\netcoreapp3.1\BMI.genruntimeconfig.cache

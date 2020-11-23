@@ -1,0 +1,16 @@
+F:\dotNet\LabWork_3\SineValue\bin\Debug\net5.0\SineValue.exe
+F:\dotNet\LabWork_3\SineValue\bin\Debug\net5.0\SineValue.deps.json
+F:\dotNet\LabWork_3\SineValue\bin\Debug\net5.0\SineValue.runtimeconfig.json
+F:\dotNet\LabWork_3\SineValue\bin\Debug\net5.0\SineValue.runtimeconfig.dev.json
+F:\dotNet\LabWork_3\SineValue\bin\Debug\net5.0\SineValue.dll
+F:\dotNet\LabWork_3\SineValue\bin\Debug\net5.0\ref\SineValue.dll
+F:\dotNet\LabWork_3\SineValue\bin\Debug\net5.0\SineValue.pdb
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.csprojAssemblyReference.cache
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.AssemblyInfo.cs
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.dll
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\ref\SineValue.dll
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.pdb
+F:\dotNet\LabWork_3\SineValue\obj\Debug\net5.0\SineValue.genruntimeconfig.cache

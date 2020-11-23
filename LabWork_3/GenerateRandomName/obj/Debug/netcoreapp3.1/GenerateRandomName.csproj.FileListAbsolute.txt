@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_3\GenerateRandomName\bin\Debug\netcoreapp3.1\GenerateRandomName.exe
+F:\dotNet\LabWork_3\GenerateRandomName\bin\Debug\netcoreapp3.1\GenerateRandomName.deps.json
+F:\dotNet\LabWork_3\GenerateRandomName\bin\Debug\netcoreapp3.1\GenerateRandomName.runtimeconfig.json
+F:\dotNet\LabWork_3\GenerateRandomName\bin\Debug\netcoreapp3.1\GenerateRandomName.runtimeconfig.dev.json
+F:\dotNet\LabWork_3\GenerateRandomName\bin\Debug\netcoreapp3.1\GenerateRandomName.dll
+F:\dotNet\LabWork_3\GenerateRandomName\bin\Debug\netcoreapp3.1\GenerateRandomName.pdb
+F:\dotNet\LabWork_3\GenerateRandomName\obj\Debug\netcoreapp3.1\GenerateRandomName.csprojAssemblyReference.cache
+F:\dotNet\LabWork_3\GenerateRandomName\obj\Debug\netcoreapp3.1\GenerateRandomName.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_3\GenerateRandomName\obj\Debug\netcoreapp3.1\GenerateRandomName.AssemblyInfo.cs
+F:\dotNet\LabWork_3\GenerateRandomName\obj\Debug\netcoreapp3.1\GenerateRandomName.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_3\GenerateRandomName\obj\Debug\netcoreapp3.1\GenerateRandomName.dll
+F:\dotNet\LabWork_3\GenerateRandomName\obj\Debug\netcoreapp3.1\GenerateRandomName.pdb
+F:\dotNet\LabWork_3\GenerateRandomName\obj\Debug\netcoreapp3.1\GenerateRandomName.genruntimeconfig.cache

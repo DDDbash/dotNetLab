@@ -1,0 +1,13 @@
+F:\dotNet\LabWork_3\XORCipher\bin\Debug\netcoreapp3.1\XORCipher.exe
+F:\dotNet\LabWork_3\XORCipher\bin\Debug\netcoreapp3.1\XORCipher.deps.json
+F:\dotNet\LabWork_3\XORCipher\bin\Debug\netcoreapp3.1\XORCipher.runtimeconfig.json
+F:\dotNet\LabWork_3\XORCipher\bin\Debug\netcoreapp3.1\XORCipher.runtimeconfig.dev.json
+F:\dotNet\LabWork_3\XORCipher\bin\Debug\netcoreapp3.1\XORCipher.dll
+F:\dotNet\LabWork_3\XORCipher\bin\Debug\netcoreapp3.1\XORCipher.pdb
+F:\dotNet\LabWork_3\XORCipher\obj\Debug\netcoreapp3.1\XORCipher.csprojAssemblyReference.cache
+F:\dotNet\LabWork_3\XORCipher\obj\Debug\netcoreapp3.1\XORCipher.AssemblyInfoInputs.cache
+F:\dotNet\LabWork_3\XORCipher\obj\Debug\netcoreapp3.1\XORCipher.AssemblyInfo.cs
+F:\dotNet\LabWork_3\XORCipher\obj\Debug\netcoreapp3.1\XORCipher.csproj.CoreCompileInputs.cache
+F:\dotNet\LabWork_3\XORCipher\obj\Debug\netcoreapp3.1\XORCipher.dll
+F:\dotNet\LabWork_3\XORCipher\obj\Debug\netcoreapp3.1\XORCipher.pdb
+F:\dotNet\LabWork_3\XORCipher\obj\Debug\netcoreapp3.1\XORCipher.genruntimeconfig.cache
